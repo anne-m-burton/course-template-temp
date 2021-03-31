@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-### About
+### About Anne's course webpage template
 
 
 
