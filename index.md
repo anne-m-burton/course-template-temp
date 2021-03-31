@@ -43,14 +43,6 @@ layout: default
 		* [Atom editor](https://atom.io/) has a markdown extension
 
 
-* Images go into [assets/img](https://github.com/valentina-s/project-website-template/tree/master/assets/img)
-	* they can be accessed by:
-			```
-			<img src="{{ site.url }}{{ site.baseurl }}/assets/img/eScience.png">
-			```
-	
-	* feel free to have a different header image relevant to your project
-
 * Blog posts (for the minima theme) go to the [_posts](https://github.com/valentina-s/personal-website-template/tree/master/_posts) folder
   * add a date in the name so they get ordered
 
