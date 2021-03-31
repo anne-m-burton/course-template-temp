@@ -7,8 +7,8 @@ layout: default
 
 # Professional Websites with GitHub Pages
 
-## Valentina Staneva
-### eScience Institute, University of Washington
+## Anne M. Burton
+### Cornell University
 
 # Plan for today
 * Go over what [GitHub Pages](https://pages.github.com/) are
