@@ -1,0 +1,21 @@
+# Dependencies
+
+# Permalinks
+permalink:        pretty
+
+
+# Setup
+title:            Project Name
+tagline:          ''
+description:      'Project Description' 
+url:              "https://valentina-s.github.io"
+baseurl:          "/project-website-template"
+
+
+paginate:         5
+
+# Custom vars
+version:          0.0.0
+
+github:
+  repo:           https://github.com/valentina-s/project-website-template/
