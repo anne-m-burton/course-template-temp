@@ -5,9 +5,9 @@ permalink:        pretty
 
 
 # Setup
-title:            Project Name
+title:            Course Name
 tagline:          ''
-description:      'Project Description' 
+description:      'Course Template' 
 url:              "https://anne-m-burton.github.io"
 baseurl:          "/course-template-temp"
 
