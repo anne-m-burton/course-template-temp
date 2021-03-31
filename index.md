@@ -5,7 +5,7 @@ layout: default
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/eScience.png">
 
 
-# Professional Websites with GitHub Pages
+# Welcome to Anne's Course Webpage Template!
 
 ## Anne M. Burton
 ### Cornell University
