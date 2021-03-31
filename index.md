@@ -28,17 +28,7 @@ layout: default
     * [https://github.com/valentina-s/course-website-template](https://github.com/valentina-s/project-website-template)
 
 
-## Repository Creation
 
-* decide on a name for the repository (it will determine the webpage url, but you can change it later)
-* click on `Use this template` & enter your repo name & create repo
-* enable publishing through the master branch (Settings -> GitHub-Pages)
-* add a link on the right for quick access to the webpage (pay attention to how the url is created)
-
-
-## Configuring your website
-* Modify your project name in the `_config.yml` file
-	
 ## Editing your webpage
 
 * Each page is a markdown document
