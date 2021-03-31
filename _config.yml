@@ -8,8 +8,8 @@ permalink:        pretty
 title:            Project Name
 tagline:          ''
 description:      'Project Description' 
-url:              "https://valentina-s.github.io"
-baseurl:          "/project-website-template"
+url:              "https://anne-m-burton.github.io"
+baseurl:          "/course-template-temp"
 
 
 paginate:         5
@@ -18,4 +18,4 @@ paginate:         5
 version:          0.0.0
 
 github:
-  repo:           https://github.com/valentina-s/project-website-template/
+  repo:           https://github.com/anne-m-burton.github.io/course-template-temp
