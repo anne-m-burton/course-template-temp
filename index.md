@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/regal_willie.jpg">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/regal_willie.jpg">
 
 
 # Welcome to Anne's Course Webpage Template!
