@@ -13,7 +13,14 @@ This course does not require statistics or econometrics as a prerequisite, but t
 
 **Group Presentation**
 
-You will each give a 30-minute group presentation on a major episode or issue in U.S. crime policy. 
+You will each give a 30-minute group presentation on a major episode or issue in U.S. crime policy. Topics include
+
+* the current opioid/heroin epidemic
+* marijuana legalization
+* mass incarceration
+* the crack cocaine epidemic
+* gun violence and gun control
+
 
 **Attendance and Participation**
 
